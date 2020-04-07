@@ -4,6 +4,7 @@ body
     height: 100vh;
     background-repeat: no-repeat;
 		background-size: cover;
+    background-attachment: fixed;
 	}
 .spinner {
   width: 40px;
