@@ -1,7 +1,6 @@
 body
 	{
-	/*	background-image: url("../img/dubai.jpeg"); */
-    background-color: #ffe6e6;
+		background-image: url("../img/dubai.jpeg"); 
     height: 100vh;
     background-repeat: no-repeat;
 		background-size: cover;
