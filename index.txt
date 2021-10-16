@@ -26,7 +26,7 @@
 
 <header>
 
-    <a href="#" class="logo"> <span>Somonnoy</span> Banerjee </a>
+    <a href="#" class="logo"> <span>shaikh</span> anas </a>
 
     <nav class="navbar">
         <a href="#home">home</a>
@@ -53,15 +53,15 @@
 <section class="home" id="home">
 
     <div class="content">
-        <span class="hi"> Hi there... </span>
-        <h3> I am <span> Somonnoy Banerjee </span> </h3>
+        <span class="hi"> hi there... </span>
+        <h3> i am <span> shaikh anas </span> </h3>
         <p class="info"> i am a front-end developer </p>
         <p class="text"> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias quidem excepturi natus iste ut. Alias, quod? Earum pariatur obcaecati dolorum! </p>
         <a href="#about" class="btn">about me</a>
     </div>
-    <div class="image">
 
-        <img src="images/home-img.jpeg" width="500" height="600" alt="">
+    <div class="image">
+        <img src="images/home-img.png" alt="">
     </div>
 
 </section>
@@ -81,7 +81,7 @@
     </div>
 
     <div class="content">
-        <h3> My name is Somonnoy Banerjee & I am a font-end developer </h3>
+        <h3> my name is shaikh anas & i am a font-end developer </h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi error molestias impedit officia! Exercitationem dignissimos esse eos quas nisi impedit delectus, voluptate ullam iste nostrum at. Dolor culpa eaque omnis.</p>
         <div class="box-container">
             <div class="box">
@@ -93,7 +93,7 @@
             <div class="box">
                 <p> <span> freelance : </span> available </p>
                 <p> <span> phone : </span> +123-456-7890 </p>
-                <p> <span> email : </span> shuvobhaijaan@gmail.com </p>
+                <p> <span> email : </span> shaikhanas@gmail.com </p>
                 <p> <span> country : </span> india </p>
             </div>
         </div>
@@ -350,8 +350,8 @@
         <div class="icons">
             <i class="fas fa-envelope"></i>
             <h3>my email</h3>
-            <p>shuvobhaijaan@gmail.com</p>
-            <p>somonnoy.banerjee2018@vitstudent.ac.in</p>
+            <p>shaikhanas@gmail.com</p>
+            <p>anasbhai@gmail.com</p>
         </div>
 
         <div class="icons">
@@ -393,7 +393,7 @@
 <!-- contact section ends -->
 
 <!-- footer section  -->
-<footer class="footer"> created by <span> Somonnoy Banerjee </span> | all rights reserved! </footer>
+<footer class="footer"> created by <span> mr. web designer </span> | all rights reserved! </footer>
 
 
 
