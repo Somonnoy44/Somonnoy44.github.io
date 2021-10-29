@@ -7,6 +7,14 @@ body
 		background-size: cover;
     background-attachment: fixed;
 	}
+
+
+.responsive {
+  width: 100%;s
+  max-width: 400px;
+  height: auto;
+}
+  
 .spinner {
   width: 40px;
   height: 40px;
